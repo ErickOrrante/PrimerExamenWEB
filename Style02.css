@@ -1,1 +1,17 @@
-body{background-color: red;}
+body{background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);}
+header{display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #6495ED;
+justify-content: center;
+padding: 5px 10px}
+h1{font-family: 'Roboto Slab', serif;
+	src: https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap;
+	font-style: normal;
+	font-weight: bold;
+	color: white;
+	font-size: 65px;
+}
+img{height: 250px;
+	width: auto;
+}
